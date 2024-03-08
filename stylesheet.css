@@ -1,6 +1,12 @@
 /* Use a CSS selector to apply style(s) to at least one HTML tag. */
 p {
     color: lightskyblue;
+    text-align: center; 
+}
+
+img {
+    width: 200px; /* Set the width to 200 pixels */
+    height: auto; /* Automatically adjust the height while maintaining aspect ratio */
 }
 
 /* Create at least one class, apply it to at least two elements, and style it. */
