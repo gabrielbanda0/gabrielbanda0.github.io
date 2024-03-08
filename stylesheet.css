@@ -1,0 +1,23 @@
+/* Use a CSS selector to apply style(s) to at least one HTML tag. */
+p {
+    color: lightskyblue;
+}
+
+/* Create at least one class, apply it to at least two elements, and style it. */
+.highlight {
+    font-weight: bold;
+}
+
+.section{
+    text-align: center;
+}
+/* Create at least one id, apply it to an element, and style it. */
+#main-heading {
+    font-size: 24px;
+    text-align: center;
+}
+
+/* Use a CSS selector to change the color of <a> when you hover the cursor over it */
+#paris-link:hover {
+    color: lightskyblue;
+}
