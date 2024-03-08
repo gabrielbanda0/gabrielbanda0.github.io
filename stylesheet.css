@@ -1,18 +1,21 @@
 /* Use a CSS selector to apply style(s) to at least one HTML tag. */
 p {
-    color: lightskyblue;
+    color: royalblue;
     text-align: center; 
 }
 
 img {
-    width: 200px; /* Set the width to 200 pixels */
-    height: auto; /* Automatically adjust the height while maintaining aspect ratio */
+    width: 400px;
+    height: auto; 
     margin: auto;
+    border: 2px solid royalblue;
+    padding: 10px;
 }
 
 /* Create at least one class, apply it to at least two elements, and style it. */
 .highlight {
     font-weight: bold;
+    color: black;
 }
 
 .section{
@@ -26,5 +29,5 @@ img {
 
 /* Use a CSS selector to change the color of <a> when you hover the cursor over it */
 #paris-link:hover {
-    color: lightskyblue;
+    color: royalblue;
 }
