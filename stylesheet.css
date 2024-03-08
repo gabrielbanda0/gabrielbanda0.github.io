@@ -5,6 +5,7 @@ p {
 }
 
 img {
+    /* Change at least two box model properties of any tag, class, or id. */
     width: 400px;
     height: auto; 
     margin: auto;
