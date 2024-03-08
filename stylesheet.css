@@ -7,6 +7,7 @@ p {
 img {
     width: 200px; /* Set the width to 200 pixels */
     height: auto; /* Automatically adjust the height while maintaining aspect ratio */
+    margin: auto;
 }
 
 /* Create at least one class, apply it to at least two elements, and style it. */
